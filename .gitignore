@@ -1,0 +1,11 @@
+/core
+/vendor/
+sites/*/*settings*.php
+!sites/*/default.settings.php
+sites/*/*services*.yml
+!sites/*/default.services.yml
+sites/*/files
+sites/*/private
+sites/simpletest
+.DS_Store
+*.log
